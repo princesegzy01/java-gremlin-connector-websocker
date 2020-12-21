@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24901569-592b-484d-bc62-fff3faf93161" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lxrNzRc7iZl3z90YWobgucOe6g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.Main" />
+      <module name="appruve-graph" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="appruve-graph []" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.appruve-graph []" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24901569-592b-484d-bc62-fff3faf93161" name="Default Changelist" comment="" />
+      <created>1608549546754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608549546754</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="678" y="235" width="1084" height="784" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608550389556">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="678" y="235" width="1084" height="784" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1608550389556" />
+    <state x="729" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608553751453">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="729" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1608553751453" />
+    <state width="1802" height="258" key="GridCell.Tab.0.bottom" timestamp="1608559301258">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="258" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1608559301258" />
+    <state width="1802" height="258" key="GridCell.Tab.0.center" timestamp="1608559301258">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="258" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1608559301258" />
+    <state width="1802" height="258" key="GridCell.Tab.0.left" timestamp="1608559301257">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="258" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1608559301257" />
+    <state width="1802" height="258" key="GridCell.Tab.0.right" timestamp="1608559301258">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="258" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1608559301258" />
+    <state width="1354" height="319" key="GridCell.Tab.1.bottom" timestamp="1608550397846">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1354" height="319" key="GridCell.Tab.1.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1608550397846" />
+    <state width="1354" height="319" key="GridCell.Tab.1.center" timestamp="1608550397846">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1354" height="319" key="GridCell.Tab.1.center/72.27.1848.1053@72.27.1848.1053" timestamp="1608550397846" />
+    <state width="1354" height="319" key="GridCell.Tab.1.left" timestamp="1608550397845">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1354" height="319" key="GridCell.Tab.1.left/72.27.1848.1053@72.27.1848.1053" timestamp="1608550397845" />
+    <state width="1354" height="319" key="GridCell.Tab.1.right" timestamp="1608550397846">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1354" height="319" key="GridCell.Tab.1.right/72.27.1848.1053@72.27.1848.1053" timestamp="1608550397846" />
+    <state x="529" y="211" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1608554443351">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="529" y="211" width="924" height="691" key="Maven.ArtifactSearchDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1608554443351" />
+    <state x="364" y="215" width="1022" height="737" key="SettingsEditor" timestamp="1608551561001">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="364" y="215" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1608551561001" />
+    <state x="652" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1608549569394">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="652" y="380" key="com.intellij.ide.util.TipDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1608549569394" />
+    <state x="602" y="120" width="788" height="867" key="find.popup" timestamp="1608552924654">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="602" y="120" width="788" height="867" key="find.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1608552924654" />
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1608554206461">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1608554206461" />
+  </component>
+</project>
