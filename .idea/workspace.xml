@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24901569-592b-484d-bc62-fff3faf93161" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.attach_pid32575" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/main/java/Service.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/java/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="experimental" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -103,8 +98,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Maven.appruve-graph []" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Maven.appruve-graph []" />
     </list>
     <recent_temporary>
       <list>
@@ -170,14 +165,14 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="529" y="211" width="924" height="691" key="Maven.ArtifactSearchDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1608554443351" />
-    <state x="364" y="215" width="1022" height="737" key="SettingsEditor" timestamp="1608551561001">
+    <state x="364" y="215" width="1022" height="737" key="SettingsEditor" timestamp="1608598269809">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="364" y="215" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1608551561001" />
-    <state x="652" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1608549569394">
+    <state x="364" y="215" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1608598269809" />
+    <state x="652" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1608598273114">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="652" y="380" key="com.intellij.ide.util.TipDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1608549569394" />
+    <state x="652" y="380" key="com.intellij.ide.util.TipDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1608598273114" />
     <state x="602" y="120" width="788" height="867" key="find.popup" timestamp="1608552924654">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
