@@ -1,6 +1,8 @@
 package main.java;
 
 
+import org.apache.tinkerpop.gremlin.structure.Vertex;
+
 import java.util.List;
 import java.util.Map;
 import java.util.HashMap;
@@ -14,9 +16,25 @@ public class Main {
         // check if an email is fraudulent
         List res =  service.GetAllVerticesByProperty("email", "mike@yahoo.com");
         if (res.size() == 0) {
+//            System.out.println(res);
             System.out.println("This email address is not fraudulent");
         }else{
-            System.out.println(res);
+
+            // Cast the vertex information to Java map
+            Map information = (Map) res.get(0);
+
+            // Assign individual variable to the graph object
+            String id = (String) information.get("id");
+            String email = (String) information.get("email");
+            String amount = (String) information.get("amount");
+            String currency = (String) information.get("currency");
+            String item = (String) information.get("item");
+            String transaction_id = (String) information.get("transaction_id");
+            String merchant_id = (String) information.get("merchant_id");
+            String transaction = (String) information.get("currency");
+            String ip_address = (String) information.get("ip_address");
+
+            System.out.println(" >>>> " + ip_address);
         }
 
     // this should add a dummy fraud transaction
